@@ -22,11 +22,11 @@ Join the "100 Days, 100 Websites" challenge today and witness your proficiency i
 
 # Output - 1
 
-![Uploading Screenshot (917).png…]()
+![Screenshot (917)](https://github.com/user-attachments/assets/2e5af8ec-cf11-47f1-8b81-3972ef91e6e8)
 
 # Output - 2
 
-![Uploading Screenshot (918).png…]()
+![Screenshot (918)](https://github.com/user-attachments/assets/9fb8ee92-60b2-4ed9-910a-8215afc6353c)
 
 # Output - 3
 
@@ -34,11 +34,12 @@ Join the "100 Days, 100 Websites" challenge today and witness your proficiency i
 
 # Output - 4
 
-![Uploading Screenshot (920).png…]()
+![Screenshot (920)](https://github.com/user-attachments/assets/9344a1fa-0b80-4b74-b063-b68d91d305cc)
+
 
 # Output - 5
 
-![Uploading Screenshot (921).png…]()
+![Screenshot (921)](https://github.com/user-attachments/assets/a2ecf3b5-e45c-484f-b20a-b76f011e7aef)
 
 
 
